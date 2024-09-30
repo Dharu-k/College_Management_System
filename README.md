@@ -1,4 +1,4 @@
-The College Management System is a comprehensive system designed to manage all aspects of a student's academic and personal information. 
+The Student Management System is a comprehensive system designed to manage all aspects of a student's academic and personal information. 
 It serves as a centralized platform that allows students, faculty, and administrators to access, manage, and update information related to academic records, attendance, fees, and more. 
 My project implements various modules using Java Swing for the graphical user interface and MySQL for database management. It includes the following modules:
          1) Login Module: Allows users to log in using their username and password credentials.
